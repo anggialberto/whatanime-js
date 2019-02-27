@@ -2,7 +2,7 @@
   "name": "whatanime-js",
   "version": "0.1.0",
   "description": "WhatAnime Web API Wrapper",
-  "main": "index.js",
+  "main": "./src/wa.js",
   "author": {
     "name": "Anggi Alberto",
     "email": "albertoanggi@gmail.com"
