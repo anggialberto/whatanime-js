@@ -12,9 +12,6 @@
   "engines": {
     "node": ">=4"
   },
-  "files": [
-    "index.js"
-  ],
   "keywords": [
     "whatanime",
     "trace-web-api",
