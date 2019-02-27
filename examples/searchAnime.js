@@ -2,7 +2,7 @@
 
 const wa = require('../src/wa');
 
-const imgPath = 'assets/examples.png';
+const imgPath = 'assets/examples.jpg';
 
 wa.searchAnime(imgPath)
   .then(searchResult => {
