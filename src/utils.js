@@ -63,7 +63,7 @@ function genTempFile(returnAs = 'path') {
       return path.join(STATIC_TMP_FILE, fName);
     }
   } catch (err) {
-    return err;
+      throw err;
   }
 }
 
