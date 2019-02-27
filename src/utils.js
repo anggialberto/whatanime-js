@@ -62,8 +62,8 @@ function genTempFile(returnAs = 'path') {
     else if (returnAs === 'path') {
       return path.join(STATIC_TMP_FILE, fName);
     }
-  } catch (e) {
-    return Error(e);
+  } catch (err) {
+    return err;
   }
 }
 
