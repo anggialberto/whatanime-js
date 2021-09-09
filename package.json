@@ -19,7 +19,7 @@
     "wrapper"
   ],
   "dependencies": {
-    "axios": "^0.18.0",
+    "axios": "^0.21.2",
     "file-type": "^10.8.0",
     "qs": "^6.6.0",
     "read-chunk": "^3.0.0"
